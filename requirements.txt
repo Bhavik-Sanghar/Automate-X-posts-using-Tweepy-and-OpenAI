@@ -1,4 +1,4 @@
 argparse
 python-dotenv
 tweepy
-openai
+google-generativeai
